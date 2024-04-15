@@ -1,5 +1,5 @@
 # Disha Prateechee
-My Analytics Portfolio
+Enthusiastic professional eager to leverage data analysis skills for driving customer engagement. Skilled in data analysis, visualization ,and business analysis. Passionate about using data to understand customer behavior and develop a better understanding of business to improve their process and in turn their revenue. Recently completed the Google Data Analytics Certificate and eager to contribute to a data-driven marketing team. Actively seeking opportunities to learn and collaborate with data professionals.
 
 # [Project 1: Movie Recommendation System Model]
 
