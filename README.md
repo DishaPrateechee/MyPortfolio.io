@@ -8,8 +8,3 @@ This is a project I did to analyse the deaths that occurred due to COVID-19 base
 * Data was taken from the Kaggle dataset 
 * The Project Write-up is published on Github - 
 
-
-![Death Rate based on Age](https://github.com/DishaPrateechee/MyPortfolio.io/assets/165455060/bc0da964-d70b-41d1-ae9e-b3aea4b3732d)
-
-
-![COVID 19: Deaths Based on Gender](https://github.com/DishaPrateechee/MyPortfolio.io/assets/165455060/e2d010b0-b7ed-4ab0-a551-6748330b5a69)
