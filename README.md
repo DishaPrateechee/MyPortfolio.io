@@ -1,30 +1,15 @@
 # Disha Prateechee
 Enthusiastic professional eager to leverage data analysis skills for driving customer engagement. Skilled in data analysis, visualization ,and business analysis. Passionate about using data to understand customer behavior and develop a better understanding of business to improve their process and in turn their revenue. Recently completed the Google Data Analytics Certificate and eager to contribute to a data-driven marketing team. Actively seeking opportunities to learn and collaborate with data professionals.
 
-# [Project 1: Movie Recommendation System Model]
+# [Project 1: COVID 19 Death Analysis]
 
-This is a project I did for my masters research paper, where I build a recommendation system for a movies dataset.
+This is a project I did to analyse the deaths that occurred due to COVID-19 based on the available data set.
 
-* Data was taken from the movielens dataset 
-* The model uses both; content-based filtering techniques and collaborative filtering techniques. 
-* Algorithms Used : K-Nearest Neightbours, TF-IDFS, Singular Value Decomposition Model (SVD), Alternatining least Square (ALS) 
-* Optimised the SVD & ALS model. 
-* The Project Write-up is published on 
-
-## Overview Of The Singular Value Decomposition Architecture  
-
-## Popular Movie Genres  
+* Data was taken from the Kaggle dataset 
+* The Project Write-up is published on Github - 
 
 
+![Death Rate based on Age](https://github.com/DishaPrateechee/MyPortfolio.io/assets/165455060/bc0da964-d70b-41d1-ae9e-b3aea4b3732d)
 
-# [Project 2: Amazon Price Scrapper]
 
-This was part of a personal project where a python price scrapper was built in order to track prices for specific items on amazon and then send out email alerts. 
-The way the model works is you add a link to the amazon product and the price you're willing to buy the product at (Target Price) and then you can run the script and it will refresh the script every 24 hours and check the price for the product, as soon as the price of the product reaches your target price the scrapper will send you an email alert. 
-
-I have also done an entire walkthrough video on youtube for the amazon price scapper and how you can build one too.
-
-# [Project 3: Yahoo Finance Web Scrapping]
-
-This project was part of my youtube channel where i build a yahoo finance web-scrapper to get stock prices from yahoo finance, I used the Yahoo_fin package to get the prices for various stock prices and ran further trend analysis. The main goal of this project was to explore the yahoo_fin package. 
-
+![COVID 19: Deaths Based on Gender](https://github.com/DishaPrateechee/MyPortfolio.io/assets/165455060/e2d010b0-b7ed-4ab0-a551-6748330b5a69)
