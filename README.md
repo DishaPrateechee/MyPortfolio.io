@@ -3,10 +3,12 @@ Enthusiastic professional eager to leverage data analysis skills for driving cus
 
 # [Project 1: COVID 19 Death Analysis](https://dishaprateechee.github.io/COVID-19-Analysis/)
 
-This is a project I did to analyse the deaths that occurred due to COVID-19 based on the available data set.
+Data Analysis and Visual Representation on COVID-19 deaths and recoveries (focusing on both aspects)
 
-* Data was taken from the Kaggle dataset.
-* This is an attempt to analyse the given data on COVID-19 death and recovery toll to figure how better to cater to the individuals affected by it.
-* The below analysis can help determine the priority of the health care that need to be provided to an individual based on different parameters.
-* The Project Write-up is published on [MyGithubProfile](https://github.com/DishaPrateechee/COVID-19-Analysis)
+* COVID-19 Mortality Analysis: Analyzed deaths due to COVID-19 using a public dataset from Kaggle.
+
+* This analysis aims to identify factors influencing healthcare prioritization for COVID-19 patients based on various parameters.
+
+* Full project details and analysis available on [MyGithubProfile](https://github.com/DishaPrateechee/COVID-19-Analysis)
+
 
