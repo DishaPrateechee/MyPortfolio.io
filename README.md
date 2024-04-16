@@ -5,6 +5,8 @@ Enthusiastic professional eager to leverage data analysis skills for driving cus
 
 This is a project I did to analyse the deaths that occurred due to COVID-19 based on the available data set.
 
-* Data was taken from the Kaggle dataset 
-* The Project Write-up is published on Github - 
+* Data was taken from the Kaggle dataset.
+* This is an attempt to analyse the given data on COVID-19 death and recovery toll to figure how better to cater to the individuals affected by it.
+* The below analysis can help determine the priority of the health care that need to be provided to an individual based on different parameters.
+* The Project Write-up is published on [MyGithubProfile](https://github.com/DishaPrateechee/COVID-19-Analysis)
 
