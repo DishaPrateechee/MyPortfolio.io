@@ -1,0 +1,209 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Bike Store Customer Insights - Excel Dashboard</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo"><strong>Data Analyst Portfolio</strong> <span>by Disha Prateechee</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+				<nav id="menu">
+					<ul class="links">
+						<li><a href="index.html">Home</a></li>
+						<li><a href="about.html">About</a></li>
+						<li><a href="#footer">Contact</a></li>
+						 <div class="dropup">
+							<button class="dropbtn">Portfolio Projects</button>
+							  <div class="dropup-content">
+									<a href="python.html">Python</a>
+									<a href="r.html">R</a>
+									<a href="sql.html">SQL</a>
+									<a href="excel.html">Excel</a>
+									<a href="https://public.tableau.com/app/profile/tianna.parris" target="_blank" class="link">Tableau</a>
+									<a href="powerbi.html">Power BI</a>
+							</div>
+						 </div>	
+					</ul>						
+				</nav>
+
+
+				<!-- Main -->
+					<div id="main" class="alt">
+						
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h1>Project Details</h1>
+									</header>
+									<!--<span class="image main"><img src="images/pic11.jpg" alt="" /></span> -->
+									<h2>Goal</h2>
+									<p>The store wants to create an annual report for 2022. This analysis will help the store understand the existing customers and grow sales in 2023.</p>
+									<a href="Excel/Atlas Store Data Analysis.xlsx" target="_blank">Download from GitHub!</a>
+									<p></p>
+
+									<h2>Setup</h2>
+									<p>To ensure the accuracy of my analysis, I implemented a rigorous data cleaning process. This involved elminating duplicate and redundant entries that could skew the results. I enhanced the readability by replacing unclear codes ("m" and "w") with more descriptive labels ("men" and "women"). I created Age Group to facilitate visualization and analysis of trends across different age segments. I addressed missing values and data types by ensuring all data points were present and in the appropriate format for accurate analysis.</p>
+									<img src="assets/images/Excel_View_Cleaned.jpeg" alt="Excel Worksheet after Data Cleaning" style="width:1000px;height:500px;" data-position="center center" />
+									<p><i>Fig 1. This image shows the dataset after it was cleaned.</i></p>
+									<p>Through a meticulous data cleaning process, I ensured the data was properly formatted and ready for analysis. This process eliminated duplicates and inconsistencies that could have skewed the results.</p>
+									
+									<h2>Analysis</h2>
+									<p>Now that we have clean data, we can perform exploratory data analysis to gain insights and patterns in the data.</p>
+									<h4>Business Questions:</h4>
+									<ol>
+										<li>What is the comparison the sales and orders?</li>
+										<li>Which month got the highest sales and orders in 2022?</li>
+										<li>Who had a higher purchasing trend - men or women?</li>
+										<li>What are the various order status?</li>
+										<li>List top 10 states contributing to the most sales.</li>
+										<li>What is the relation between age and gender based on number?</li>
+										<li>Which channel is contributes to the maximum sales?</li>
+										<li>What is the highest selling Category?</li>
+									</ol>
+
+									<p>By answering these questions, the Atlas store can develop a better understanding of their ideal customer and tailor their marketing strategies to attract more of these customers.</p>
+									
+									<h2>Data Exploration</h2>
+
+									<p> I used the customer data to create pivot tables that grouped the customers based on different criteria. Using these groups, I created charts that show key insights. Additionally, differnt functions were used to perform calculations.</p>
+									<img src="assets/images/Pivot_Table.jpeg" alt="Excel Analysis" style="width:1000px;height:500px;" data-position="center center" />
+									<p><i>Fig 2. This image shows the different pivot tables and charts.</i></p>
+
+									<p>For clear and comprehensive data visualization, I created an interactive dashboard showcasing all the relevant charts.  This dashboard goes a step further by incorporating a slicer, allowing users to effortlessly filter the data based on specific criteria.  This interactive element empowers users to identify customer segments most likely to purchase from Atlas stores, facilitating targeted marketing strategies.</p>
+									<img src="assets/images/Excel_Data_Analysis.png" alt="Excel Sales Dashboard" style="width:1000px;height:500px;" data-position="center center" />
+									<p><i>Fig 3. This image shows the Atlas store Sales Dashboard.</i></p>
+
+									<h3>Key Findings</h3>
+
+									<p>Using the dashboard, we were able to determine the following insights:
+									</p>
+									<ul>
+										<li>Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu are the top 5 states contributing to the sales of Atlas store.(~35%)</li>
+										<li>Women are more likely to make a purchase as compared to men.(~65%)</li>
+										<li>Adult age group i.e. (30-49 years) make the maximum purchase at Atlas store (~50%)</li>
+										<li>Amazon, Flipkart and Myntra channels are maximum to contribute to the sales (~80%)</li>
+									  </ul>
+
+
+									<h3>Recommendations</h3>
+									<p>Based on these findings, the business can implement the following actionable steps to improve sales:</p>
+									<ul>
+										<li>Target marketing efforts towards the Adult age group i.e. (30-49 years), which is the largest group of buyers. This can be done through targeted advertisements, promotions, and events.</li>
+										<li>Cater to the needs and interests of customers in specifically Maharashtra, Karnataka and Uttar Pradesh with the ads or discounts.</li>
+										<li>Focus sales efforts on Amazon, Flipkart and Myntra. This can involve increasing inventory and offering promotions specific to this website channels.</li>
+									</ul>
+
+									<p>In conclusion, this analysis unveils valuable insights into the demographics and preferences of Atlas Store's customers. By leveraging these findings, the business can unlock significant sales opportunities.  Here are some actionable steps: develop targeted marketing campaigns that resonate with specific customer segments, tailor product offerings to better align with customer preferences, and optimize store layout and product placement to enhance customer experience.  By implementing these data-driven strategies, Atlas Store can effectively cater to the needs and interests of its target market, fostering customer loyalty and driving long-term growth.</p>
+								</div>
+							</section>
+                        
+					</div>
+
+				<!-- Contact -->
+					<!--<section id="contact">
+						<div class="inner">
+							<section>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="6"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Clear" /></li>
+									</ul>
+								</form>
+							</section>
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">information@untitled.tld</a>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-phone"></span>
+										<h3>Phone</h3>
+										<span>(000) 000-0000 x12387</span>
+									</div>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon solid alt fa-home"></span>
+										<h3>Address</h3>
+										<span>1234 Somewhere Road #5432<br />
+										Nashville, TN 00000<br />
+										United States of America</span>
+									</div>
+								</section>
+							</section>-->
+						</div>
+					</section>
+
+				<!-- Footer -->
+				<section class="split">
+					<section>
+						<h4>Contact Information</h4>															
+					</section>
+				</section>
+			</div>
+									<!-- Footer -->
+									<footer id="footer">
+										<div class="inner">
+											<ul class="icons">
+												<li><a href="mailto:disha.prateechee23@gmail.com" target="_blank" class="icon solid alt fa-envelope"><span class="label">GMAIL</span></a></li>
+												<li><a href="https://github.com/DishaPrateechee" target="_blank" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+												<li><a href="www.linkedin.com/in/dishaprateechee23" target="_blank" class="icon brands alt fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+											</ul>
+											<ul class="copyright">
+												<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+											</ul>
+										</div>
+									</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
